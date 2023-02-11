@@ -1,0 +1,1 @@
+In this project I can make the analysis on the tripAdvisory and created a dashboard in Tableau by using the dataset taken from the kaggle. You can access this dashboard on the Tableau public by using the link : https://lnkd.in/g9_qMfrF
